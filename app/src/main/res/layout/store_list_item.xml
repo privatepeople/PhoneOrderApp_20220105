@@ -22,7 +22,4 @@
         android:textSize="20sp"
         android:text="가게 이름" />
 
-
-
-
 </LinearLayout>
